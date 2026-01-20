@@ -16,3 +16,12 @@ Berikut adalah tim yang terlibat dalam pengembangan aplikasi ini:
 - **Marvel Joshua Bunadi** - UI/UX Designer
 
 Repository ini hanya berisi desain dan dokumentasi terkait antarmuka pengguna, tidak termasuk kode sumber aplikasi.
+Ini adalah teks di atas tabel.
+
+| Nama       | Hobi      | Bahasa Pemrograman |
+| :--------- | :-------: | ---------------: |
+| Alice      | Membaca   | Python           |
+| Bob        | Bersepeda | JavaScript       |
+| Charlie    | Coding    | Java             |
+
+Ini adalah teks di bawah tabel.
