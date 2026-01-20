@@ -8,13 +8,13 @@ Desain antarmuka aplikasi ini dibuat dengan menggunakan Figma. Setiap elemen dan
 - ADMIN(https://www.figma.com/proto/X9PcfBbTJAz0YJ55vppqZ7/PROJECT-UAS-ANSI?node-id=1-1341&p=f&t=VUDHQfojB2WEJbIz-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A1307)
 
 ## Tim Pengembang
-| Nama                       | Job               | 
-| :--------------------------| :-------:         |
-| Resi Ajhari                | Project Manager   | 
-| Agisna Rahmathia Putri     | Database Engineer | 
-| Jelvin Putra Hulu          | System Analyst    |
-| Alia Maharani              | Data Analyst      |
-| Marvel Joshua Bunadi       | UI/UX Designer    |
+| Nama                       | Job               | GitHub                   |
+| :--------------------------| :-------:         | :------------------------: 
+| Resi Ajhari                | Project Manager   | @Resi666-collab          |
+| Agisna Rahmathia Putri     | Database Engineer | @Agisna Rahmathia Putri  |
+| Jelvin Putra Hulu          | System Analyst    | @                        |
+| Alia Maharani              | Data Analyst      | @Aliamaharani            |
+| Marvel Joshua Bunadi       | UI/UX Designer    | @Marvel Joshua           |
 
 Repository ini hanya berisi desain dan dokumentasi terkait antarmuka pengguna, tidak termasuk kode sumber aplikasi.
 Ini adalah teks di atas tabel.
