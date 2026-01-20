@@ -17,4 +17,3 @@ Desain antarmuka aplikasi ini dibuat dengan menggunakan Figma. Setiap elemen dan
 | Marvel Joshua Bunadi       | UI/UX Designer    | @Zutonn                  |
 
 Repository ini hanya berisi desain dan dokumentasi terkait antarmuka pengguna, tidak termasuk kode sumber aplikasi.
-Ini adalah teks di atas tabel.
