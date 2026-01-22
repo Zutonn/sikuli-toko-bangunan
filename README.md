@@ -4,8 +4,7 @@ Repository ini berisi kode sumber untuk aplikasi **Sikuli Toko Bangunan**, sebua
 ## Desain UI/UX
 Desain antarmuka aplikasi ini dibuat dengan menggunakan Figma. Setiap elemen dan alur navigasi telah dirancang untuk memastikan pengalaman pengguna yang intuitif dan mudah digunakan. Mockup dan prototipe aplikasi dapat dilihat pada file Figma berikut:
 - [Link ke Figma Prototipe]
-- USER (https://www.figma.com/proto/X9PcfBbTJAz0YJ55vppqZ7/PROJECT-UAS-ANSI?node-id=1-35&p=f&t=1tHnWU1N9MYaWDuE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-- ADMIN(https://www.figma.com/proto/X9PcfBbTJAz0YJ55vppqZ7/PROJECT-UAS-ANSI?node-id=1-1341&p=f&t=VUDHQfojB2WEJbIz-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A1307)
+https://www.figma.com/design/1I2qC6FQBf6v1WP832zQ5t/serba-serbi?m=auto&t=zeNkIRSOhjfjmsdl-6
 
 ## Tim Pengembang
 | Nama                       | Job               | GitHub                   |
